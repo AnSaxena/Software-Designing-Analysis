@@ -1,9 +1,9 @@
-Project Title: SalesPro Inventory Master - Visual Paradigm
+# Project Title: SalesPro Inventory Master - Visual Paradigm
 
-Description:
+## Description:
 SalesPro Inventory Master is a cutting-edge software solution designed to revolutionize sales and inventory management processes. Leveraging the robust capabilities of Visual Paradigm, this project offers a comprehensive approach to streamlining operations, enhancing visibility, and optimizing decision-making.
 
-Key Features:
+## Key Features:
 
 Developed a sophisticated software design for seamless integration of sales and inventory data.
 Utilized Visual Paradigm's advanced analysis features to meticulously examine business requirements and system specifications.
